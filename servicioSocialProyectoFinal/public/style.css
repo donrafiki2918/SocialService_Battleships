@@ -123,7 +123,7 @@
 }
 
 .destroyer {
-    background-color: brown;
+    background-color: orangered;
 }
 
 .submarine {
@@ -157,9 +157,9 @@
 .connected span, 
 .ready span {
     display: inline-block;
-    width: 1rem;
-    height: 1rem;
-    background: red;
+    width: 30px;
+    height: 30px;
+    background: black;
 }
 
 span.green{
