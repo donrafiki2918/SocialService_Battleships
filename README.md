@@ -11,8 +11,10 @@ To run the application:
 
 ## Bugs
 The green light for the player 2 is not working properly.
+
 The boats can clip into each other.
 
 ## Future Improvements
 A better UI
+
 Collision
