@@ -1,0 +1,20 @@
+{
+  "name": "SocialService_Battleships-main",
+  "version": "1.0.0",
+  "description": "Multiplayer battleship game",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
